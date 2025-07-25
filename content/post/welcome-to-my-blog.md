@@ -1,3 +1,14 @@
++++
+date = '2025-07-23T17:55:18-03:00'
+draft = false
+title = 'New post!'
+subtitle = 'A new journey in sharing knowledge and experiences'
+description = 'Welcome to my blog where I share insights about software development, technology, and programming.'
+author = 'DevBlac'
+tags = ['welcome', 'blog', 'introduction']
+categories = ['General']
++++
+
 # Welcome to My Blog!
 
 Hey, I’m Julián — and this is my digital garden.  
