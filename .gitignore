@@ -1,0 +1,36 @@
+# Hugo build artifacts
+public/
+.hugo_build.lock
+
+# Generated files
+resources/_gen/
+
+# Node modules (if using npm/yarn for additional processing)
+node_modules/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Hugo development server files
+.hugo_build.lock 

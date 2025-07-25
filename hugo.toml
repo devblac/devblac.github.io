@@ -1,0 +1,66 @@
+baseURL = "https://devblac.github.io/"
+title = "DevBlac Blog"
+theme = "hugo-theme-cleanwhite"
+languageCode = "en-us"
+preserveTaxonomyNames = true
+
+[services]
+  # Enable comments by entering your Disqus shortname
+  [services.disqus]
+    shortname = ""
+  [services.googleAnalytics]
+    id = ""
+
+[pagination]
+  pagerSize = 5 # frontpage pagination
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[params]
+  header_image = "img/home-bg-jeep.jpg"
+  SEOTitle = "DevBlac Blog | Software Development & Technology"
+  description = "A blog about software development, technology, and programming insights"
+  keyword = "devblac, software development, programming, technology, blog, coding"
+  slogan = "Coding the future, one line at a time"
+
+  image_404 = "img/404-bg.jpg"
+  title_404 = "Oops! Page not found :("
+  omit_categories = false
+
+  # Sidebar settings
+  sidebar_about_description = "Software Developer, Technology Enthusiast"
+  sidebar_avatar = "img/avatar.jpg"
+
+  featured_tags = true 
+  featured_condition_size = 1 
+
+  # Enable reward system (optional)
+  reward = false
+
+  friends = true
+  bookmarks = true
+  about_me = true
+
+  [params.social]
+  rss            = true 
+  email          = "julian.blacher@gmail.com"
+  github         = "https://github.com/devblac"
+  linkedin       = "https://www.linkedin.com/in/blacher"
+  
+  [[params.additional_menus]]
+  title =  "ARCHIVE"
+  href =  "/archive/"
+  [[params.additional_menus]]
+  title =  "ABOUT"
+  href =  "/about/"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "github"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
