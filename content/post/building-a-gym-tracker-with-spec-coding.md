@@ -3,7 +3,7 @@ date = '2025-09-13T12:55:18-03:00'
 draft = false
 title = 'I Hate the Gym, So I Built a Fitness App with Spec Coding'
 subtitle = 'How my nephew, the gym, and a new coding paradigm collided into one project.'
-description: "A personal story about building LiftFire, a gym tracker app, with Kiro IDE — and my thoughts on the future of vibe coding, spec coding, and AI-assisted development."
+description = "A personal story about building LiftFire, a gym tracker app, with Kiro IDE — and my thoughts on the future of vibe coding, spec coding, and AI-assisted development."
 author = 'DevBlac'
 tags = ['fitness', 'spec-coding', 'developer-experience', 'personal', 'vibe', 'code', 'software engineering', 'kiro', 'AI', 'develop']
 categories = ['General']
@@ -11,7 +11,7 @@ categories = ['General']
 
 ---
 
-**TL;DR**:  
+**TL;DR**:
 I built **LiftFire**, a gym tracker for my nephew and me, using a new workflow called **spec coding**. Instead of code-first, it’s driven by `.md` steering files, spec requests, and vibe-triggered hooks.
 - Small apps can work with ~50 specs.
 - Real-world apps may need **500+ specs + 800+ vibes**.
