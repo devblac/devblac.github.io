@@ -101,7 +101,8 @@ But here’s the thing: the **professional supervising the build** changes every
 
 ---
 
-## [Screenshot Placeholder: Example of product.md / steering file]
+
+![Specs, agent hooks and agent steering](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/liwy1aa8ladf4zl38l4e.jpg)
 
 *“Cleaner than my kitchen. Don’t zoom in or you’ll see TODOs multiplying.”*  
 
@@ -116,14 +117,8 @@ But I’m halfway through more ambitious features:
 - Sharing workouts, goals, and milestones.
 - A gamified layer to make workouts less boring and more communal.
 
-And yes — there’s a roadmap live at [kirogym.netlify.app](https://kirogym.netlify.app).
+And yes — there will be a roadmap live at [kirogym.netlify.app](https://kirogym.netlify.app) in the next days.
 It’s not just a roadmap; it’s also where I’ll explain new features as they roll out.
-
----
-
-## [Screenshot Placeholder: Roadmap site at kirogym.netlify.app]
-
-*“Publishing your roadmap online = zero excuses. My nephew checks it more than I do.”*
 
 ---
 
