@@ -20,12 +20,14 @@ The surprise? It felt like the future: less busywork, more meaning. Coding gets 
 
 ---
 
-
 I find weightlifting so boring I’d rather debug legacy PHP.
 But when my nephew said yes to going with me, I built an app to make sure neither of us quit.
 
 This is the story of **LiftFire**, a gym tracker I built with [Kiro IDE](https://kiro.dev) which implements **spec coding**.
 It’s part fitness struggle, part dev diary, and part glimpse into the future of building software with AI.
+
+
+![Spec Coding](https://github.com/devblac/devblac.github.io/blob/main/assets/20250913-gymtracker-futurespecs.png?raw=true)
 
 ---
 
@@ -37,8 +39,7 @@ As I spend most of my life behind screens, so I try to balance it:
 - Run in the park.
 - Lift weights at the gym.
 
-
-![Specs, agent hooks and agent steering](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/liwy1aa8ladf4zl38l4e.jpg)
+![Trying to work-life balance](https://raw.githubusercontent.com/devblac/devblac.github.io/refs/heads/main/assets/20250913-gymtracker-balance.png)
 
 The truth? I hate weightlifting. It’s repetitive, it’s monotonous, but the result is undeniable: after a workout, my brain feels 400% sharper. It rewires my mood, my focus, my life.
 
