@@ -3,7 +3,7 @@ date = '2025-09-13T12:55:18-03:00'
 draft = false
 title = 'I Hate the Gym, So I Built a Fitness App with Spec Coding'
 subtitle = 'How my nephew, the gym, and a new coding paradigm collided into one project.'
-description = "A personal story about building LiftFire, a gym tracker app, with Kiro IDE — and my thoughts on the future of vibe coding, spec coding, and AI-assisted development."
+description = "A personal story about building LiftFire, a gym tracker app — and my thoughts on the future of vibe coding, spec coding, and AI-assisted development."
 author = 'DevBlac'
 tags = ['fitness', 'spec-coding', 'developer-experience', 'personal', 'vibe', 'code', 'software engineering', 'kiro', 'AI', 'develop']
 categories = ['General']
@@ -11,12 +11,15 @@ categories = ['General']
 
 ---
 
-**TL;DR:**
-I built **LiftFire**, a gym tracker for my nephew and me. What started as a way to make boring workouts fun turned into my first real test of **spec coding** — a new approach where documents guide the build instead of just code.
 
-The surprising part? This workflow feels like the future: fewer people needed for the mechanics, but humans still central to giving projects meaning. Commitment is the hard part — coding just makes it easier.
+**TL;DR:**  
+I built **LiftFire**, a gym tracker for my nephew and me. It started as a way to make boring workouts less painful — and turned into my first real test of **spec coding**, a workflow where documents steer the build instead of just raw code.  
+
+The surprise? It felt like the future: less busywork, more meaning. Coding gets easier — but commitment, whether in the gym or in software, is still the real challenge.  
+
 
 ---
+
 
 I find weightlifting so boring I’d rather debug legacy PHP.
 But when my nephew said yes to going with me, I built an app to make sure neither of us quit.
@@ -49,7 +52,7 @@ That was the spark. If we were going to do this together, I wanted an app that w
 
 ## Why another gym app?
 
-I tried plenty. They almost all fell short.
+I downloaded half a dozen fitness apps. Some buried me in menus, others felt like they were built for bodybuilders only. None struck the balance I wanted.  
 
 - Too cluttered.
 - Too minimal.
@@ -143,7 +146,7 @@ But don’t get me wrong — people are still the key. Without human judgment, v
 ## Reflections
 
 - Gym alone? Boring.
-- Gym with my nephew? Life-changing.
+- Gym with my nephew? A commitment I actually kept.
 - Coding alone? Fine.
 - Coding with spec coding workflows? Next level.
 
@@ -162,3 +165,4 @@ Why spec coding matters.
 
 Because in the end:
 **Commitment is the real challenge. Coding just makes it easier.**
+And if there’s one lesson here, it’s this: collaboration, whether with family or with AI, is what keeps us going when motivation fades.
