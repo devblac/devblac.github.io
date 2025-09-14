@@ -11,12 +11,10 @@ categories = ['General']
 
 ---
 
-
 **TL;DR:**  
 I built **LiftFire**, a gym tracker for my nephew and me. It started as a way to make boring workouts less painful — and turned into my first real test of **spec coding**, a workflow where documents steer the build instead of just raw code.  
 
 The surprise? It felt like the future: less busywork, more meaning. Coding gets easier — but commitment, whether in the gym or in software, is still the real challenge.  
-
 
 ---
 
@@ -25,7 +23,6 @@ But when my nephew said yes to going with me, I built an app to make sure neithe
 
 This is the story of **LiftFire**, a gym tracker I built with [Kiro IDE](https://kiro.dev) which implements **spec coding**.
 It’s part fitness struggle, part dev diary, and part glimpse into the future of building software with AI.
-
 
 ![Spec Coding](https://github.com/devblac/devblac.github.io/blob/main/assets/20250913-gymtracker-futurespecs.png?raw=true)
 
@@ -102,7 +99,6 @@ But here’s the thing: the **professional supervising the build** changes every
 
 ---
 
-
 ![Specs, agent hooks and agent steering](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/liwy1aa8ladf4zl38l4e.jpg)
 
 *“Cleaner than my kitchen. Don’t zoom in or you’ll see TODOs multiplying.”*  
@@ -154,9 +150,9 @@ Collaboration is the superpower — in the gym and in the IDE.
 
 ---
 
-## Closing  
+## Closing thoughts
 
-If you want the **technical breakdown** (steering files, hooks, vibe requests), I wrote a focused [dev.to post](#).
+If you want the **technical breakdown** (steering files, hooks, vibe requests), I wrote a focused [dev.to post](https://dev.to/devblac/spec-coding-with-kiro-my-experience-building-liftfire-g0n).
 
 But this story was about *why*.
 Why I chose the gym.
