@@ -69,7 +69,7 @@ So I built one: **LiftFire**.
 
 ---
 
-## [Screenshot Placeholder: LiftFire UI - exercise list / tracking screen]  
+![Exercise list](https://github.com/devblac/devblac.github.io/blob/main/assets/20250913-gymtracker-exercise.jpg?raw=true)
 
 *“Yes, it’s simple — but it actually gets used. Unlike that half-finished Rust side project we don’t talk about.”*
 
