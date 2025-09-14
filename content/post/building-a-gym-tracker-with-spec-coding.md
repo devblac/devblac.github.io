@@ -148,6 +148,10 @@ But don’t get me wrong — people are still the key. Without human judgment, v
 
 Collaboration is the superpower — in the gym and in the IDE.
 
+
+![Coding together](https://github.com/devblac/devblac.github.io/blob/main/assets/20250913-gymtracker-coding.png?raw=true)
+
+
 ---
 
 ## Closing  
