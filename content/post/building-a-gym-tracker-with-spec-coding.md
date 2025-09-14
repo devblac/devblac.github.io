@@ -11,12 +11,10 @@ categories = ['General']
 
 ---
 
-**TL;DR**:
-I built **LiftFire**, a gym tracker for my nephew and me, using a new workflow called **spec coding**. Instead of code-first, it’s driven by `.md` steering files, spec requests, and vibe-triggered hooks.
-- Small apps can work with ~50 specs.
-- Real-world apps may need **500+ specs + 800+ vibes**.
-- Specs = big rocks, vibes = details, **humans = the real difference**.
-The future isn’t one-sentence apps, it’s AI agents collaborating with people. Commitment is the hard part — coding just makes it easier.
+**TL;DR:**
+I built **LiftFire**, a gym tracker for my nephew and me. What started as a way to make boring workouts fun turned into my first real test of **spec coding** — a new approach where documents guide the build instead of just code.
+
+The surprising part? This workflow feels like the future: fewer people needed for the mechanics, but humans still central to giving projects meaning. Commitment is the hard part — coding just makes it easier.
 
 ---
 
@@ -36,9 +34,10 @@ As I spend most of my life behind screens, so I try to balance it:
 - Run in the park.
 - Lift weights at the gym.
 
-The truth? I hate weightlifting. It’s repetitive, it’s boring, and I’d rather debug legacy PHP than do another set of curls.
 
-But the result is undeniable: after a workout, my brain feels 400% sharper. It rewires my mood, my focus, my life.
+![Specs, agent hooks and agent steering](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/liwy1aa8ladf4zl38l4e.jpg)
+
+The truth? I hate weightlifting. It’s repetitive, it’s monotonous, but the result is undeniable: after a workout, my brain feels 400% sharper. It rewires my mood, my focus, my life.
 
 So what makes the boring worth it? **Going with someone else.**
 Friends said no. Colleagues said no. Family said no.
@@ -141,12 +140,12 @@ But don’t get me wrong — people are still the key. Without human judgment, v
 
 ---
 
-## Reflections  
+## Reflections
 
 - Gym alone? Boring.
 - Gym with my nephew? Life-changing.
 - Coding alone? Fine.
-- Coding with spec coding workflows? Amplified.
+- Coding with spec coding workflows? Next level.
 
 Collaboration is the superpower — in the gym and in the IDE.
 
