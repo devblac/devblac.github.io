@@ -21,7 +21,7 @@ The surprise? It felt like the future: less busywork, more meaning. Coding gets 
 I find weightlifting so boring I’d rather debug legacy PHP.
 But when my nephew said yes to going with me, I built an app to make sure neither of us quit.
 
-This is the story of **LiftFire**, a gym tracker I built with [Kiro IDE](https://kiro.dev) which implements **spec coding**.
+This is the story of **LiftFire**, a gym tracker I built with [Kiro IDE](https://kiro.dev) which implements **spec coding**.  
 It’s part fitness struggle, part dev diary, and part glimpse into the future of building software with AI.
 
 ![Spec Coding](https://github.com/devblac/devblac.github.io/blob/main/assets/20250913-gymtracker-futurespecs.png?raw=true)
@@ -162,3 +162,5 @@ Why spec coding matters.
 Because in the end:
 **Commitment is the real challenge. Coding just makes it easier.**
 And if there’s one lesson here, it’s this: collaboration, whether with family or with AI, is what keeps us going when motivation fades.
+
+#hookedonkiro
